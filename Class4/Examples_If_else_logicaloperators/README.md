@@ -1,4 +1,4 @@
-## CLASS 3 OF ALGORITHM BUILDING
+## CLASS 4 OF ALGORITHM BUILDING
 
 When navigating through this repository it's possible to see examples given during the third class of Algorithm Building from my college.
 
